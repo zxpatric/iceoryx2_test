@@ -62,7 +62,7 @@ Delay 50th percentile: 194548.5 ns
 ```
 
 
-Note: Did another test with subscriber with CYCLE_TIME = iox::units::Duration::fromNanoseconds(500).
+Note: Did another test with subscriber of CYCLE_TIME = iox::units::Duration::fromNanoseconds(500).
 ```py
 Item 6265 has the max delay: 3314789 ns
 Delay 90th percentile: 1728963.4999999995 ns
